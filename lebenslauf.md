@@ -29,8 +29,9 @@
 
 ## **Kenntnisse**
 
-- **Programmiersprachen:** C#, Java, Typescript, JavaScript , SQL, Kotlin
-- **Datenbankensysteme:** OracleDb, Postgresql, Mysql
+- **Programmiersprachen:** C#, Java, Typescript, JavaScript , SQL, Kotlin, Shell-Script, Python
+- **Frameworks:** React, Angular, Tensorflow, OpenCV, .Net, Springboot
+- **Datenbankensysteme:** OracleDb, Postgresql, Mysql, MariaDb
 - **Sprachen:** Deutsch, Englisch
 - **Projectentwicklung:** Scrum
 - **Softskills:** Teamfähig, Anpassungsfähig, Flexibel, Konfliktfähig
